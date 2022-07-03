@@ -18,3 +18,16 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+
+
+const generateTable = tableOfContents => {
+  if (!tableOfContents) {
+    return '';
+  }
+  return `
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+`
+}
