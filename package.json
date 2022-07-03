@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "name": "readme-generator",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abram1r/README-generator.git"
+  },
+  "author": "Abram1r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abram1r/README-generator/issues"
+  },
+  "homepage": "https://github.com/Abram1r/README-generator#readme"
+}
